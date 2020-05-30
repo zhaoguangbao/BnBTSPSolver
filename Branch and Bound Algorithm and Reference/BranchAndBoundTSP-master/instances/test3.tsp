@@ -1,0 +1,14 @@
+NAME : test3
+COMMENT : small test instance
+TYPE : TSP
+DIMENSION: 7
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+ 1 0 0
+ 2 1 1
+ 3 0 2
+ 4 3 1
+ 5 2 2
+ 6 3 3
+ 7 1 2
+EOF
